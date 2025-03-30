@@ -1,6 +1,11 @@
 /* styles.css */
 
+* {
+    font-family: Verdana, Arial, sans-serif;
+}
+
 h1 {
+    font-family: Georgia, Garamond, serif;
     font-size: 50px;
     text-align: center;
 }
