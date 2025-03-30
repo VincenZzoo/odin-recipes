@@ -1,0 +1,33 @@
+/* styles.css */
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: red;
+}
+.links {
+    color: red;
+    background-color: cadetblue;
+}
+
+.home-button {
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+
+.image {
+    background-color: black;
+}
