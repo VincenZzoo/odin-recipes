@@ -8,6 +8,10 @@ h1 {
     font-family: Georgia, Garamond, serif;
     font-size: 50px;
     text-align: center;
+    background-color: #dac7c7;
+    padding: 15px;
+    margin: 15px;
+
 }
 
 a:link {
@@ -24,15 +28,25 @@ a:hover {
 .links {
     color: red;
     background-color: cadetblue;
+    padding: 15px;
+    margin: 15px;
+   text-align: center;
 }
 
 .home-button {
     background-color: black;
     color: white;
     text-align: center;
+    padding: 60px;
     
 }
 
 .image {
     background-color: black;
+    padding: 15px;
+    margin: 15px;
+}
+
+ul {
+    margin: 50px;
 }
